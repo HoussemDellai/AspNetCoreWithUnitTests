@@ -1,0 +1,11 @@
+C:\Users\DELLAI\Desktop\AspNetCoreWithUnitTests\WebApp\bin\Debug\netcoreapp2.0\WebApp.deps.json
+C:\Users\DELLAI\Desktop\AspNetCoreWithUnitTests\WebApp\bin\Debug\netcoreapp2.0\WebApp.runtimeconfig.json
+C:\Users\DELLAI\Desktop\AspNetCoreWithUnitTests\WebApp\bin\Debug\netcoreapp2.0\WebApp.runtimeconfig.dev.json
+C:\Users\DELLAI\Desktop\AspNetCoreWithUnitTests\WebApp\bin\Debug\netcoreapp2.0\WebApp.dll
+C:\Users\DELLAI\Desktop\AspNetCoreWithUnitTests\WebApp\bin\Debug\netcoreapp2.0\WebApp.pdb
+C:\Users\DELLAI\Desktop\AspNetCoreWithUnitTests\WebApp\obj\Debug\netcoreapp2.0\WebApp.csprojAssemblyReference.cache
+C:\Users\DELLAI\Desktop\AspNetCoreWithUnitTests\WebApp\obj\Debug\netcoreapp2.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\DELLAI\Desktop\AspNetCoreWithUnitTests\WebApp\obj\Debug\netcoreapp2.0\WebApp.AssemblyInfoInputs.cache
+C:\Users\DELLAI\Desktop\AspNetCoreWithUnitTests\WebApp\obj\Debug\netcoreapp2.0\WebApp.AssemblyInfo.cs
+C:\Users\DELLAI\Desktop\AspNetCoreWithUnitTests\WebApp\obj\Debug\netcoreapp2.0\WebApp.dll
+C:\Users\DELLAI\Desktop\AspNetCoreWithUnitTests\WebApp\obj\Debug\netcoreapp2.0\WebApp.pdb
